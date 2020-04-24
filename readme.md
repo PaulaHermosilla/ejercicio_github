@@ -21,5 +21,7 @@ Utilizaremos este proyecto para familiarizarnos con Git
 
 #hfskdjhfkñsjdb
 #kjdhf<dasho
-3. analizar outliers
+
+3.Analizar datos
 4. hacer descriptivos
+
