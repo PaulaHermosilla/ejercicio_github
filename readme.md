@@ -21,3 +21,5 @@ Utilizaremos este proyecto para familiarizarnos con Git
 
 #hfskdjhfkñsjdb
 #kjdhf<dasho
+
+3.Analizar datos
