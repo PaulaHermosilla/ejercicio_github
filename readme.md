@@ -24,4 +24,5 @@ Utilizaremos este proyecto para familiarizarnos con Git
 
 3.Analizar datos
 4. hacer descriptivos
-
+5. Tambien queremos hacer un sistema de recomendacion
+6. añadiremos visu
